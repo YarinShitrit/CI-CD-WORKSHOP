@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "625830802787",
+    "project_id": "cicd-workshop-d02bc",
+    "storage_bucket": "cicd-workshop-d02bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625830802787:android:e27c5559c4810a9d748f56",
+        "android_client_info": {
+          "package_name": "yarin.shitrit.cicd_workshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625830802787-dshvm9k3nbk3v9ql2dsle18ogqvp8oiv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3GeifOYx795DVTv1LGfOq-T-5D5LtuFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625830802787-dshvm9k3nbk3v9ql2dsle18ogqvp8oiv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
